@@ -43,7 +43,7 @@
 			timing0: hsd100pxn1 {
 				clock-frequency = <35714000>;
 				hactive = <800>;
-				vactive = <480>;
+				vactive = <380>;
 				hback-porch = <24>;
 				hfront-porch = <15>;
 				vback-porch = <13>;
@@ -66,7 +66,7 @@
 			timing1: hsd100pxn1 {
 				clock-frequency = <32000000>;
 				hactive = <800>;
-				vactive = <480>;
+				vactive = <380>;
 				hback-porch = <39>;
 				hfront-porch = <39>;
 				vback-porch = <29>;
